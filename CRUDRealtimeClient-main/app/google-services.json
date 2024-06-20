@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273651645851",
+    "project_id": "crud-realtime-client-f1fc8",
+    "storage_bucket": "crud-realtime-client-f1fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273651645851:android:aa3d15358562989013753e",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP18okmL2sbwPGwAq9UhCtoqAJA-A2GVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
